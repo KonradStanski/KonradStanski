@@ -1,4 +1,4 @@
-### Hi, I'm Konrad Staniszewski, a computer (software) engineering new grad from the Univeristy of Alberta. Currently @Arista
+### Hi, I'm Konrad Staniszewski, a computer (software) engineering new grad from the University of Alberta. Currently @Arista
 
 I like webdev, react, node, rust, and a bunch of other technologies. Big physics nerd, and love doing outdoor sports.
 
